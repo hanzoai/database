@@ -1,2 +1,2 @@
-# database — AI Assistant Context
+# database
 
